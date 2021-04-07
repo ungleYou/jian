@@ -1,0 +1,1 @@
+{"paths":{"0":["main_music",0],"1":["start",0],"2":["bomb",0]},"types":["cc.AudioClip"],"uuids":["963Ba5EFpIbL9idxxnIUfd","a94zvEg2ZDuIizUAczRNX1","b1QEGKdZhJgIZooukue+N9"],"scenes":{},"redirect":[0,0,1,0,2,0],"deps":["main"],"packs":{},"name":"audio","importBase":"import","nativeBase":"native","debug":false,"isZip":false,"encrypted":false,"versions":{"import":[],"native":[]}}
